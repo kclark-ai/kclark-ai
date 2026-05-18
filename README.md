@@ -1,6 +1,6 @@
 # Kevin Clark
 
-**I lead AI deployment inside enterprise organizations — where the stakes are high and the standards are higher.**
+**I lead AI transformation inside a professional services firm — and I'm building in the open to show how it's done.**
 
 Most enterprise AI fails at deployment, not strategy. The models work. The pilots show promise. Then the rollout stalls, adoption plateaus, and the ROI never materializes. I work on that problem — the gap between a working prototype and an organization that has actually changed how it operates.
 
