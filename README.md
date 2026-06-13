@@ -2,8 +2,6 @@
 
 **I lead AI transformation inside a professional services firm and I'm building in the open to show how it's done.**
 
-Most enterprise AI fails at deployment, not strategy. The models work. The pilots show promise. Then the rollout stalls, adoption plateaus, and the ROI never materializes. I work on that problem, the gap between a working prototype and an organization that has actually changed how it operates.
-
 At my current firm, I own the full AI strategy, governance, and deployment roadmap for a 75-person professional services organization. 100% Copilot adoption. 20+ custom agents in production. $250K+ in annualized capacity reclaimed through workflow redesign. 7+ active pilots with defined success metrics and weekly feedback loops. Every deployment tracked against ROI from day one.
 
 I don't layer AI on broken workflows. I redesign the operational system first, then deploy AI into the new architecture. That distinction is why the results compound.
